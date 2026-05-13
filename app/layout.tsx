@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AI 미니앱 스타터 — 광명 바이브코딩 6회차",
+  title: "AI 미니앱 스타터 — 바이브코딩 6회차",
   description:
     "Gemini API · .env · .gitignore 의 첫 만남. 다섯 가지 AI 미니앱 중 하나를 골라 만들어보세요.",
 };

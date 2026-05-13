@@ -53,7 +53,7 @@ export default function Home() {
       <div className="mx-auto w-full max-w-3xl px-5 py-12 sm:py-16">
         {/* 표지 영역 */}
         <header className="border-t-[6px] border-teal pt-8 pb-6 border-b border-line mb-10">
-          <div className="eyebrow mb-3">광명 바이브코딩 · 6회차 스타터</div>
+          <div className="eyebrow mb-3">바이브코딩 · 6회차 스타터</div>
           <h1 className="cover-title text-3xl sm:text-4xl font-bold leading-tight tracking-tight text-ink">
             내 사이트에 <em>AI 심장</em> 달기
           </h1>
@@ -166,7 +166,7 @@ export default function Home() {
 
         {/* 푸터 */}
         <footer className="mt-16 pt-6 border-t border-line text-xs text-muted flex justify-between">
-          <span>광명여성비전센터 · 바이브코딩 6회차 스타터</span>
+          <span>바이브코딩 6회차 스타터</span>
           <span>스마택트 Smartact</span>
         </footer>
       </div>
